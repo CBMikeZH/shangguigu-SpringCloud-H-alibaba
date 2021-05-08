@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    zookeeper:
+      connect-string: 192.168.0.19:2181
+
+eureka:
+  client:
+    enabled: false
